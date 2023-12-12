@@ -92,7 +92,7 @@ This project implements an in-memory file system with functionalities such as cr
 2. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/yourusername/in-memory-file-system.git
+   git clone https://github.com/Shivastuti2506/memory-management-system.git
 
 3. **Navigate to the project directory**
    ```bash
@@ -103,20 +103,27 @@ This project implements an in-memory file system with functionalities such as cr
 5. **Activate the virtual enviroment**
    - on Windows
      ```bash
-     .\venv\Scripts\activate```
+     .\venv\Scripts\activate
    - on unix or macOS
      ```bash
-     source venv/bin/activate```
+     source venv/bin/activate
   
 6. **Install project dependencies**
    ```bash
    python -m pip install -r requirement.text```
+Note: **In some cases (due to version problem), if the requirements are not installed or shows some error, just type the following commands on terminal.**
+- to install flask
+  ```bash
+  pip install flask
+- to install requests
+  ```bash
+  pip install requests
 
 ## Running the Server and CLI
 1. **Navigate to the server directory** ```cd server```
 2. **Run the server** ```python server.py```
 3. **Open a new terminal and navigate to the cli directory:** ```cd CLI```
-4. **Run the CLI file** ```python cli.py
+4. **Run the CLI file** ```python cli.py```
 
 ## Additional Notes
 - **Data Storage:** Data is stored in-memory. Restarting the server will reset the file system state.
