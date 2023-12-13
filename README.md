@@ -92,7 +92,7 @@ This project implements an in-memory file system with functionalities such as cr
 2. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/Shivastuti2506/memory-management-system.git
+   git clone https://github.com/Shivastuti2506/intern_project.git
 
 3. **Navigate to the project directory**
    ```bash
