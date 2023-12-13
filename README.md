@@ -110,7 +110,7 @@ This project implements an in-memory file system with functionalities such as cr
   
 6. **Install project dependencies**
    ```bash
-   python -m pip install -r requirement.text```
+   python -m pip install -r requirement.text
 Note: **In some cases (due to version problem), if the requirements are not installed or shows some error, just type the following commands on terminal.**
 - to install flask
   ```bash
